@@ -14,9 +14,11 @@ This ArcGIS JavaScript sample let's you navigate to a local .zip file add a shap
 
 ## Instructions
 
-1. Download and unzip the .zip file or clone the repo.  Download Github clients here: [Github for Windows] (http://windows.github.com/) or [Github for Mac] (http://mac.github.com/)).
+1. Download and unzip the .zip file or clone the repo.
 2. Web-enable the directory or copy/paste the source to your own .html file.
 3. Access the .html page.
+
+New to Github? Get started [here]: 1.Setup 2.Create 3.Fork 4.Follow (https://github.com/)
 
 ## Requirements
 
@@ -29,7 +31,6 @@ This ArcGIS JavaScript sample let's you navigate to a local .zip file add a shap
 * [ArcGIS for JavaScript API Resource Center](http://help.arcgis.com/en/webapi/javascript/arcgis/index.html)
 * [ArcGIS Blog](http://blogs.esri.com/esri/arcgis/)
 * [twitter@esri](http://twitter.com/esri)
-* [Get started with Github: 1.Setup 2.Create 3.Fork 4.Follow] (https://github.com/)
 
 ## Issues
 
