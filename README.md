@@ -18,7 +18,7 @@ This ArcGIS JavaScript sample let's you navigate to a local .zip file add a shap
 2. Web-enable the directory or copy/paste the source to your own .html file.
 3. Access the .html page.
 
-New to Github? Get started [here](https://github.com/).
+* [New to Github? Get started here.](https://github.com/)
 
 ## Requirements
 
