@@ -1,6 +1,6 @@
 # add-shapefile-js
 
-This ArcGIS JavaScript sample let's you navigate to a local .zip file add a shapefile to your web map. It uses the Portal API REST Generate method to create features that can be loaded into a web map application.  Learn more [here](http://help.arcgis.com/en/webapi/javascript/arcgis/help/jssamples_start.htm#jssamples/portal_addshapefile.html).
+This ArcGIS JavaScript sample let's you navigate to a local .zip file add a shapefile to your web map. It uses the Portal API REST Generate method to create features that can be loaded into a web map application.  Learn more [here](https://developers.arcgis.com/javascript/jssamples/portal_addshapefile.html).
 
 [View live here](http://help.arcgis.com/en/webapi/javascript/arcgis/samples/portal_addshapefile/index.html)
 
